@@ -3,7 +3,7 @@
 
 A beautiful, modern website with beautiful animations built with using modern CSS technologies and SASS.
 
-View the live application by clicking on this link https://rituraj567.github.io/natours/
+View the live application by clicking on this link https://rituraj567.github.io/natours-project/
 
 Getting Started
 ===============
@@ -34,5 +34,5 @@ Technologies Used
 ===============
 
 - CSS3
-- HTMl5
+- HTML5
 - SASS
